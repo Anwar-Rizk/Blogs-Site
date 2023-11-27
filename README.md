@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple blog site that i can use to add blogs and delete them.
+This is a simple blog site that I can use to add blogs and delete them.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ This is a simple blog site that i can use to add blogs and delete them.
 - Clone the repo
 - Open the terminal and cd to the repo folder
 - Run `npm install` to install the dependencies
-- Run 'npm install -g nodemon' to install nodemon globally
+- Run `npm install -g nodemon` to install nodemon globally
 - Run `nodemon app.js` to start the server
 - Open your browser and go to `localhost:3000`
 - You should connect to your own database in `app.js` file
