@@ -4,10 +4,10 @@
 
 This is a simple blog site that I can use to add blogs and delete them.
 
-## Requirements
+## Prerequisites
 
 - Node.js installed
-- Familiar with MongoDB
+- NPM installed
 
 ## How to use
 
